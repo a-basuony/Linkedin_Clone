@@ -1,7 +1,10 @@
 <h1 align="center">Linkedin Clone ✨</h1>
 
-![Demo link]([/frontend/public/screenshot-for-readme.png](https://linkedin-clone-two-taupe.vercel.app/))
-![screen shot](/frontend/public/screenshot-for-readme.png)
+![Demo link]((https://linkedin-clone-two-taupe.vercel.app/))
+
+
+<img width="1882" height="881" alt="image" src="https://github.com/user-attachments/assets/56e5fea5-2d9c-45ef-bb50-0bd193154815" />
+
 
 
 
