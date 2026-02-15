@@ -7,6 +7,7 @@ backend api: https://linkedin-clone-backend-system.vercel.app/
 
 <img width="1882" height="881" alt="image" src="https://github.com/user-attachments/assets/56e5fea5-2d9c-45ef-bb50-0bd193154815" />
 
+<img width="728" height="422" alt="image" src="https://github.com/user-attachments/assets/23723d3c-833a-4e9d-bdc7-79d1e77a246e" />
 
 
 
